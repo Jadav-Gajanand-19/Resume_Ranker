@@ -1,0 +1,1 @@
+This project is an AI-powered Resume Screening and Ranking System that automates the process of analyzing resumes and ranking candidates based on job descriptions. It utilizes Natural Language Processing (NLP) techniques and Machine Learning to efficiently screen applicants and enhance recruitment workflows.
